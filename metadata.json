@@ -1,0 +1,5 @@
+{
+  "name": "React Parkour",
+  "description": "A simple and fun parkour-style endless runner game built with React and Tailwind CSS. Jump over obstacles to achieve the highest score!",
+  "requestFramePermissions": []
+}
